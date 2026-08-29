@@ -5,7 +5,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/React-amazon-clone-project-1">
       <App />
     </BrowserRouter>
   </StrictMode>,
