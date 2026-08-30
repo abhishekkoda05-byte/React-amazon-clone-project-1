@@ -4,7 +4,7 @@ A responsive Amazon-inspired e-commerce website built using **React.js**. This p
 
 ## 🚀 Live Demo
 
-**Live Website:** Add your GitHub Pages / deployment link here
+**Live Website:  https://abhishekkoda05-byte.github.io/React-amazon-clone-project-1/
 
 ## 📸 Features
 
