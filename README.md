@@ -1,16 +1,77 @@
-# React + Vite
+# 🛒 Amazon Clone – React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive Amazon-inspired e-commerce website built using **React.js**. This project was created to practice React fundamentals, API integration, state management, routing, and responsive UI development.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Website:** Add your GitHub Pages / deployment link here
 
-## React Compiler
+## 📸 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🏠 Amazon-inspired homepage
+* 🔍 Product search
+* 🛍️ Product listing
+* 📦 Product data fetched from an API
+* 👀 Product details popup
+* 🛒 Add products to cart
+* ➕ Increase/decrease cart quantity
+* ❌ Remove products from cart
+* 🔐 Login and sign-in popup
+* 🖼️ Automatic hero image slider
+* 📱 Responsive design for mobile and desktop
+* 🔗 Page navigation using React Router
 
-## Expanding the Oxlint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Vite**
+* **React Router**
+* **REST API**
+* **Git & GitHub**
+
+## 🌐 API
+
+Product information is fetched from the **DummyJSON Products API**.
+
+API used:
+
+`https://dummyjson.com/products`
+
+## 📂 Project Structure
+
+```text
+amazon-clone/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── package.json
+└── README.md
+```
+
+## 🎯 Future Improvements
+
+Some features I would like to add in the future:
+
+* User authentication
+* Persistent cart using Local Storage
+* Product categories
+* Product sorting and filtering
+* Checkout page
+* Payment integration
+* Backend/database integration
+* Order history
+* Improved mobile UI
+
+## 👨‍💻 Author
+
+**Abhishek**
+
+This project was built as part of my journey to improve my **React.js and frontend development skills**.
+
